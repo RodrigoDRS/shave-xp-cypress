@@ -1,0 +1,33 @@
+{
+    "success": {
+        "name": "Rodrigo Reis",
+        "email": "rodrigo@yahoo.com",
+        "password": "Aprove06",
+        "is_shaver": false
+    },
+    "invpass": {
+        "email": "Rodrigo@yahoo.com",
+        "password": "abc123"
+    },
+    "email404": {
+        "email": "Rodrigo@404.com",
+        "password": "abc123"
+    },
+    "shortpass": [
+        "1",
+        "12",
+        "123",
+        "1234",
+        "12345"
+    ],
+    "invemails": [
+        "Rodrigo&gmail.com",
+        "Rodrigo.com.br",
+        "@gmail.com",
+        "@",
+        "rodrigo@",
+        "121323",
+        "@#@!#!@",
+        "xpto123"
+    ]
+}
